@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
 
-    "devs" : "json-server --watch team.json"
+    "devs" : "json-server --watch db.json"
   },
   "author": "jabir",
   "license": "ISC",
