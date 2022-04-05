@@ -1,0 +1,15 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "devs" : "json-server --watch team.json"
+  },
+  "author": "jabir",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

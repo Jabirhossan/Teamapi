@@ -1,0 +1,144 @@
+{
+    "devs" : [
+
+            {
+            "id": 1,
+            "name": "jabir",
+            "age": "22",
+            "skill": "Java",
+            "photo": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/270188621_3058234667781951_1042987987183328631_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHjNWA-5zqEjmqdZu2LmbTU18t3z4Ea6LrXy3fPgRroujeZAWQtqBI-TsukPCyHFGSOB7GDKcmHunqVYHZzSatG&_nc_ohc=gPnMebxUjbEAX_aG1Rm&,_nc_ht=scontent.fdac24-1.fna&oh=00_AT_4jqhNtBJuo095S3KMIUdiCRE1i7x6lMYylW3WWtjHzw&oe=624E8FC0"
+            },
+
+            {
+                "id": 1,
+                "name": "jabir",
+                "age": "22",
+                "skill": "Java",
+                "photo": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/270188621_3058234667781951_1042987987183328631_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHjNWA-5zqEjmqdZu2LmbTU18t3z4Ea6LrXy3fPgRroujeZAWQtqBI-TsukPCyHFGSOB7GDKcmHunqVYHZzSatG&_nc_ohc=gPnMebxUjbEAX_aG1Rm&,_nc_ht=scontent.fdac24-1.fna&oh=00_AT_4jqhNtBJuo095S3KMIUdiCRE1i7x6lMYylW3WWtjHzw&oe=624E8FC0"
+            },
+
+
+            {
+                "id": 1,
+                "name": "jabir",
+                "age": "22",
+                "skill": "Java",
+                "photo": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/270188621_3058234667781951_1042987987183328631_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHjNWA-5zqEjmqdZu2LmbTU18t3z4Ea6LrXy3fPgRroujeZAWQtqBI-TsukPCyHFGSOB7GDKcmHunqVYHZzSatG&_nc_ohc=gPnMebxUjbEAX_aG1Rm&,_nc_ht=scontent.fdac24-1.fna&oh=00_AT_4jqhNtBJuo095S3KMIUdiCRE1i7x6lMYylW3WWtjHzw&oe=624E8FC0"
+            },
+
+            {
+                "id": 1,
+                "name": "jabir",
+                "age": "22",
+                "skill": "Java",
+                "photo": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/270188621_3058234667781951_1042987987183328631_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHjNWA-5zqEjmqdZu2LmbTU18t3z4Ea6LrXy3fPgRroujeZAWQtqBI-TsukPCyHFGSOB7GDKcmHunqVYHZzSatG&_nc_ohc=gPnMebxUjbEAX_aG1Rm&,_nc_ht=scontent.fdac24-1.fna&oh=00_AT_4jqhNtBJuo095S3KMIUdiCRE1i7x6lMYylW3WWtjHzw&oe=624E8FC0"
+            }
+
+    ],
+
+
+
+
+    "student" : [
+        {
+
+            "id"        : 1,
+            "name"      : "Jabir Hossain",
+            "roll"      : "01",
+            "age"       : "16",
+            "class"     : "Ten",
+            "photo"     : "#",
+            "ban"       : "76",
+            "eng"       : "68",
+            "math"      : "80",
+            "acc"       : "78"
+
+
+
+
+
+        },
+
+        {
+
+            "id"        : 2,
+            "name"      : "Ramim Ahmed",
+            "roll"      : "02",
+            "age"       : "16",
+            "class"     : "Ten",
+            "photo"     : "#",
+            "ban"       : "72",
+            "eng"       : "80",
+            "math"      : "66",
+            "acc"       : "77"
+
+
+
+
+
+        },
+
+
+        {
+
+            "id"        : 3,
+            "name"      : "Mahmudul Hasan",
+            "roll"      : "03",
+            "age"       : "16",
+            "class"     : "Ten",
+            "photo"     : "#",
+            "ban"       : "78",
+            "eng"       : "70",
+            "math"      : "74",
+            "acc"       : "80"
+
+
+
+
+
+        },
+
+
+        {
+
+            "id"        : 4,
+            "name"      : "Khairul Islam",
+            "roll"      : "04",
+            "age"       : "17",
+            "class"     : "Ten",
+            "photo"     : "#",
+            "ban"       : "74",
+            "eng"       : "63",
+            "math"      : "81",
+            "acc"       : "75"
+
+
+
+
+
+        },
+
+
+        {
+
+            "id"        : 5,
+            "name"      : "Obaidur Rahman",
+            "roll"      : "05",
+            "age"       : "15",
+            "class"     : "Ten",
+            "photo"     : "#",
+            "ban"       : "72",
+            "eng"       : "65",
+            "math"      : "70",
+            "acc"       : "82"
+
+
+
+
+
+        }
+    ]
+
+
+}
+
